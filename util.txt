@@ -8,3 +8,11 @@ lhama git
 elsys@elsys-HP-ENVY-Laptop-17-ch0xxx:~/Documents/lhama_git_aulas$ git config --global user.email "vinicius.mpinho@gmail.com"
 elsys@elsys-HP-ENVY-Laptop-17-ch0xxx:~/Documents/lhama_git_aulas$ git config --global user.name vinicius.gmail
 
+
+git add .
+git status
+git push -u origin main
+
+
+git config --global credential.helper 'cache --timeout=86400'
+
