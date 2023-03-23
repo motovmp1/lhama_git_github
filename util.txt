@@ -1,0 +1,10 @@
+video do youtube
+
+https://www.youtube.com/watch?v=7TGtCCN789g&list=PLAgbpJQADBGKPIQvIoQbp3SfY3_5bhL3K&index=2
+
+lhama git
+
+
+elsys@elsys-HP-ENVY-Laptop-17-ch0xxx:~/Documents/lhama_git_aulas$ git config --global user.email "vinicius.mpinho@gmail.com"
+elsys@elsys-HP-ENVY-Laptop-17-ch0xxx:~/Documents/lhama_git_aulas$ git config --global user.name vinicius.gmail
+
